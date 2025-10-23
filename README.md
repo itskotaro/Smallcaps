@@ -1,4 +1,4 @@
-# 👋 Hey, I'm SamKry
+# 👋 Hey, I'm itskotaro
 
 I'm a Minecraft developer focusing on Bedrock and Java (Fabric) mods, addons, and automation systems.  
 I love building high-performance features like Anti-Cheat systems, Auto Scripts, and Server Tools.
